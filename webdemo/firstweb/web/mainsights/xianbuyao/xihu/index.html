@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>带搜索框的jQuery下拉框美化插件 searchableSelect</title>
+    <link href="/jquery.searchableSelect.css" rel="stylesheet" type="text/css">
+    <script src="/jquery-1.11.1.min.js"></script>
+    <script src="/jquery.searchableSelect.js"></script>
+  </head>
+  <body>
+  <form id=""  action="/register_log/JumpToChild">
+    <select name="Attractions" id="Attractions">
+      <option value="jQuery插件库">jQuery插件库</option>
+      <option value="西湖">西湖</option>
+      <option value="real">real</option>
+    </select>
+    <script>
+		$(function(){
+			$('select').searchableSelect();
+		});
+    </script>
+    <input type="submit" value="submit"/>
+  </form>
+  </body>
+</html>

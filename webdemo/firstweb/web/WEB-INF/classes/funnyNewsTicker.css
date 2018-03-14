@@ -1,0 +1,38 @@
+
+.funnyNewsTicker{width:100%; overflow:hidden; height:440px; position:relative; padding:0 5px; box-sizing:border-box; margin:0 auto;}
+.funnyNewsTicker>ul{padding:0; margin:0; list-style-type:none; position:relative;}
+.funnyNewsTicker>ul>li{display:none; width:100%; height:100px; background:#FFF; position:absolute;  overflow:hidden}
+.funnyNewsTicker>ul>li>.fnt-content{position:absolute; top:0; bottom:30px; left:0; right:0; box-sizing:border-box; padding:5%; overflow:hidden;}
+.funnyNewsTicker>ul>li>.fnt-content a{text-decoration:none;}
+.funnyNewsTicker>ul>li>.fnt-content a:hover{text-decoration:underline;}
+.funnyNewsTicker>ul>li>.fnt-info{position:absolute; bottom:0; left:0; right:0; height:20px; padding:5px; border-top:solid 1px #DDD;}
+.funnyNewsTicker>ul>li>.fnt-info a{display:inline-block; width:20px; height:20px; background:#0F0; opacity:0.2; cursor:pointer;}
+.funnyNewsTicker>ul>li>.fnt-info a:hover{opacity:1;}
+.funnyNewsTicker>ul>li>.fnt-info a.fnt-facebook-black{background:url(../img/fnt-buttons-black.png) 0 0 no-repeat; float:left; margin-right:5px;}
+.funnyNewsTicker>ul>li>.fnt-info a.fnt-twitter-black{background:url(../img/fnt-buttons-black.png) -20px 0 no-repeat; float:left; margin-right:5px;}
+.funnyNewsTicker>ul>li>.fnt-info a.fnt-google-black{background:url(../img/fnt-buttons-black.png) -40px 0 no-repeat; float:left;}
+.funnyNewsTicker>ul>li>.fnt-info a.fnt-link-black{background:url(../img/fnt-buttons-black.png) -60px 0 no-repeat; float:right;}
+.funnyNewsTicker>ul>li>.fnt-info a.fnt-facebook-white{background:url(../img/fnt-buttons-white.png) 0 0 no-repeat; float:left; margin-right:5px;}
+.funnyNewsTicker>ul>li>.fnt-info a.fnt-twitter-white{background:url(../img/fnt-buttons-white.png) -20px 0 no-repeat; float:left; margin-right:5px;}
+.funnyNewsTicker>ul>li>.fnt-info a.fnt-google-white{background:url(../img/fnt-buttons-white.png) -40px 0 no-repeat; float:left;}
+.funnyNewsTicker>ul>li>.fnt-info a.fnt-link-white{background:url(../img/fnt-buttons-white.png) -60px 0 no-repeat; float:right;}
+.funnyNewsTicker>ul>li>.fnt-info span{position:absolute; left:80px; right:30px; text-align:center; opacity:0.4; z-index:0; font-size:13px; cursor:default;}
+.funnyNewsTicker>div{width:50px; height:30px; cursor:pointer; position:absolute; opacity:0.3;}
+.funnyNewsTicker>div:hover{opacity:1;}
+.funnyNewsTicker>div.fnt-top-arrow{top:0; background:url(../img/fnt-arrows-black.png) top no-repeat;}
+.funnyNewsTicker>div.fnt-bottom-arrow{bottom:0; background:url(../img/fnt-arrows-black.png) bottom no-repeat;}
+
+.funnyNewsTicker .fnt-top0{-ms-transform: scale(0.80); -webkit-transform: scale(0.85); transform: scale(0.85); opacity:0.85; top:0; z-index:1; display:block;}
+.funnyNewsTicker .fnt-top1{-ms-transform: scale(0.87); -webkit-transform: scale(0.9); transform: scale(0.9); opacity:0.9; top:20px; z-index:2; display:block;}
+.funnyNewsTicker .fnt-top2{-ms-transform: scale(0.95); -webkit-transform: scale(0.95); transform: scale(0.95); opacity:0.95; top:45px; z-index:3; display:block;}
+.funnyNewsTicker .fnt-active{-ms-transform: scale(1); -webkit-transform: scale(1); transform: scale(1); opacity:1; top:75px; z-index:10; display:block;}
+.funnyNewsTicker .fnt-bottom2{-ms-transform: scale(0.95); -webkit-transform: scale(0.95); transform: scale(0.95); opacity:0.95; top:105px; z-index:6; display:block;}
+.funnyNewsTicker .fnt-bottom1{-ms-transform: scale(0.87); -webkit-transform: scale(0.90); transform: scale(0.90); opacity:0.9; top:130px; z-index:5; display:block;}
+.funnyNewsTicker .fnt-bottom0{-ms-transform: scale(0.80); -webkit-transform: scale(0.85); transform: scale(0.85); opacity:0.85; top:150px; z-index:4; display:block;}
+
+.fnt-easing2{transition:.25s linear; -moz-transition:.25s linear; -webkit-transition:.25s linear;}
+.fnt-easing li{transition:.5s ease-out; -moz-transition:.5s ease-out; -webkit-transition:.5s ease-out;}
+.fnt-radius li{-webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;}
+.fnt-radius2 li{-webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px;}
+.fnt-shadow li{-webkit-box-shadow: 0px 0px 10px 0px rgba(100,100,100,0.3); -moz-box-shadow: 0px 0px 10px 0px rgba(100,100,100,0.3); box-shadow: 0px 0px 10px 0px rgba(100,100,100,0.3);}
+.fnt-shadow-big{-webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5) !important; -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5) !important; box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5) !important;}

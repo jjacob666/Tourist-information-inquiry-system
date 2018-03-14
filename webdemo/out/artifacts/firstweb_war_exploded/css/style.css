@@ -1,0 +1,9 @@
+@charset "utf-8";
+body, html { padding: 0; margin: 0;}
+body {	background: #fff; padding-top: 30px;}
+#news-container1 { margin: 0 auto; width: 180px; height: 24px;}
+#news-container { width: 400px; height: 150px; margin:0 auto; margin-top: 30px; padding: 0 10px; border: 5px solid #333;}
+#news-container ul { overflow: hidden; width: 400px; }
+#news-container ul li{ display: block; height: 48px; background: #fff;}
+#news-container ul li div { border-bottom: 1px solid #ddd;	background: #fff;}
+

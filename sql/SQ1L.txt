@@ -1,0 +1,704 @@
+insert into Shopping_info values('00001','商圈','杭州市上城区延安路与平海路口东南面','湖滨','1000');
+insert into Shopping_info values('00002','步行街','杭州市上城区河坊街','清河坊','500');
+insert into Shopping_info values('00003','商圈','杭州市上城区南山路','南山路','200');
+insert into Shopping_info values('00004','商圈','杭州市下城区龙游路（北山路口）','武林路','1000');
+insert into Shopping_info values('00005','电子卖场','杭州市西湖区文三路电子信息街区','文三路','1000');
+insert into Shopping_info values('00006','步行街','杭州市拱墅区信义坊步行街','信义坊','200');
+insert into Shopping_info values('00007','茶村','杭州市上城区延安路与平海路口东南面','梅家坞','1000');
+insert into Shopping_info values('00008','汽车城','杭州市拱墅区石祥路','石祥路','100000');
+insert into Shopping_info values('00009','汽车文化街区','杭州市下城区绍兴路','绍兴路','1000000');
+insert into Shopping_info values('00001','美食街','杭州市拱墅区霞湾路','胜利河','500');
+insert into Shopping_info values('00002','商圈','杭州市江干区丹桂街','钱江新城','1000');
+insert into Shopping_info values('00003','丝绸市场','杭州市下城区新华路','丝绸城','1000');
+insert into Shopping_info values('00004','夜市','杭州市上城区仁和路与慧兴路','吴山夜市','100');
+
+
+
+insert user_info values('美国队长','ISMvKXpXpadDiUoOSoAfww==','18856335900@163.com','18856335900','0');
+insert user_info values('钢铁侠','ISMvKXpXpadDiUoOSoAfww==','18856335901@163.com','18856335901','0');
+insert user_info values('雷神','ISMvKXpXpadDiUoOSoAfww==','18856335902@163.com','18856335902','0');
+insert user_info values('绿巨人','ISMvKXpXpadDiUoOSoAfww==','18856335903@163.com','18856335903','0');
+insert user_info values('黑寡妇','ISMvKXpXpadDiUoOSoAfww==','18856335904@163.com','18856335904','0');
+insert user_info values('鹰眼','ISMvKXpXpadDiUoOSoAfww==','18856335905@163.com','18856335905','0');
+insert user_info values('死待','ISMvKXpXpadDiUoOSoAfww==','18856335906@163.com','18856335906','0');
+insert user_info values('毒液','ISMvKXpXpadDiUoOSoAfww==','18856335907@163.com','18856335907','0');
+insert user_info values('哨兵','ISMvKXpXpadDiUoOSoAfww==','18856335908@163.com','18856335908','0');
+insert user_info values('白皇后','ISMvKXpXpadDiUoOSoAfww==','18856335909@163.com','18856335909','0');
+insert user_info values('万磁王','ISMvKXpXpadDiUoOSoAfww==','18856335910@163.com','18856335910','0');
+insert user_info values('金刚狼','ISMvKXpXpadDiUoOSoAfww==','18856335911@163.com','18856335911','0');
+insert user_info values('镭射眼','ISMvKXpXpadDiUoOSoAfww==','18856335912@163.com','18856335912','0');
+insert user_info values('恶灵骑士','ISMvKXpXpadDiUoOSoAfww==','18856335913@163.com','18856335913','0');
+insert user_info values('银影侠','ISMvKXpXpadDiUoOSoAfww==','18856335914@163.com','18856335914','0');
+insert user_info values('卡特','ISMvKXpXpadDiUoOSoAfww==','18856335915@163.com','18856335915','0');
+insert user_info values('战争机器','ISMvKXpXpadDiUoOSoAfww==','18856335916@163.com','18856335916','0');
+insert user_info values('牌皇','ISMvKXpXpadDiUoOSoAfww==','18856335917@163.com','18856335917','0');
+insert user_info values('红骷髅','ISMvKXpXpadDiUoOSoAfww==','18856335918@163.com','18856335918','0');
+insert user_info values('红浩克','ISMvKXpXpadDiUoOSoAfww==','18856335919@163.com','18856335919','0');
+insert user_info values('超胆侠','ISMvKXpXpadDiUoOSoAfww==','18856335920@163.com','18856335920','0');
+insert user_info values('新星','ISMvKXpXpadDiUoOSoAfww==','18856335921@163.com','18856335921','0');
+insert user_info values('惩戒者','ISMvKXpXpadDiUoOSoAfww==','18856335922@163.com','18856335922','0');
+insert user_info values('冬日战士','ISMvKXpXpadDiUoOSoAfww==','18856335923@163.com','18856335923','0');
+insert user_info values('尼克福瑞','ISMvKXpXpadDiUoOSoAfww==','18856335924@163.com','18856335924','0');
+insert user_info values('屠杀','ISMvKXpXpadDiUoOSoAfww==','18856335925@163.com','18856335925','0');
+insert user_info values('黑豹','ISMvKXpXpadDiUoOSoAfww==','18856335926@163.com','18856335926','0');
+insert user_info values('钢力士','ISMvKXpXpadDiUoOSoAfww==','18856335927@163.com','18856335927','0');
+insert user_info values('X-23','ISMvKXpXpadDiUoOSoAfww==','18856335928@163.com','18856335928','0');
+insert user_info values('灭霸','ISMvKXpXpadDiUoOSoAfww==','18856335929@163.com','18856335929','0');
+insert user_info values('那摩','ISMvKXpXpadDiUoOSoAfww==','18856335930@163.com','18856335930','0');
+insert user_info values('章鱼博士','ISMvKXpXpadDiUoOSoAfww==','18856335931@163.com','18856335931','0');
+insert user_info values('绯红女巫','ISMvKXpXpadDiUoOSoAfww==','18856335932@163.com','18856335932','0');
+insert user_info values('霹雳火','ISMvKXpXpadDiUoOSoAfww==','18856335933@163.com','18856335933','0');
+insert user_info values('蚁人','ISMvKXpXpadDiUoOSoAfww==','18856335934@163.com','18856335934','0');
+insert user_info values('行星吞噬着','ISMvKXpXpadDiUoOSoAfww==','18856335935@163.com','18856335935','0');
+insert user_info values('月光骑士','ISMvKXpXpadDiUoOSoAfww==','18856335936@163.com','18856335936','0');
+insert user_info values('红坦克','ISMvKXpXpadDiUoOSoAfww==','18856335937@163.com','18856335937','0');
+insert user_info values('马面雷神','ISMvKXpXpadDiUoOSoAfww==','18856335938@163.com','18856335938','0');
+insert user_info values('萨卡','ISMvKXpXpadDiUoOSoAfww==','18856335939@163.com','18856335939','0');
+insert user_info values('海格力斯','ISMvKXpXpadDiUoOSoAfww==','18856335940@163.com','18856335940','0');
+insert user_info values('霍普赛莫斯','ISMvKXpXpadDiUoOSoAfww==','18856335941@163.com','18856335941','0');
+insert user_info values('伽娜塔','ISMvKXpXpadDiUoOSoAfww==','18856335942@163.com','18856335942','0');
+insert user_info values('刀锋战士','ISMvKXpXpadDiUoOSoAfww==','18856335943@163.com','18856335943','0');
+insert user_info values('卢克凯奇','ISMvKXpXpadDiUoOSoAfww==','18856335944@163.com','18856335944','0');
+insert user_info values('铁拳','ISMvKXpXpadDiUoOSoAfww==','18856335945@163.com','18856335945','0');
+insert user_info values('魔型女','ISMvKXpXpadDiUoOSoAfww==','18856335946@163.com','18856335946','0');
+insert user_info values('英国队长','ISMvKXpXpadDiUoOSoAfww==','18856335947@163.com','18856335947','0');
+insert user_info values('冰人','ISMvKXpXpadDiUoOSoAfww==','18856335948@163.com','18856335948','0');
+insert user_info values('小淘气','ISMvKXpXpadDiUoOSoAfww==','18856335949@163.com','18856335949','0');
+insert user_info values('银河守护者','ISMvKXpXpadDiUoOSoAfww==','18856335950@163.com','18856335950','0');
+insert user_info values('女浩克','ISMvKXpXpadDiUoOSoAfww==','18856335951@163.com','18856335951','0');
+insert user_info values('幻视','ISMvKXpXpadDiUoOSoAfww==','18856335952@163.com','18856335952','0');
+insert user_info values('毁灭博社','ISMvKXpXpadDiUoOSoAfww==','18856335953@163.com','18856335953','0');
+insert user_info values('闪电侠','ISMvKXpXpadDiUoOSoAfww==','18856335954@163.com','18856335954','0');
+insert user_info values('绿箭侠','ISMvKXpXpadDiUoOSoAfww==','18856335955@163.com','18856335955','0');
+insert user_info values('绿灯侠','ISMvKXpXpadDiUoOSoAfww==','18856335956@163.com','18856335956','0');
+insert user_info values('蜘蛛侠','ISMvKXpXpadDiUoOSoAfww==','18856335957@163.com','18856335957','0');
+insert user_info values('蝙蝠侠','ISMvKXpXpadDiUoOSoAfww==','18856335958@163.com','18856335958','0');
+insert user_info values('超人','ISMvKXpXpadDiUoOSoAfww==','18856335959@163.com','18856335959','0');
+
+
+insert into MainSight_info values('10','京杭大运河','MainSight1','/image/010.jpg','西湖区','0571-87179510','京杭大运是杭州市4A级景区','50','100','18:00:00','08:00:00');
+insert into MainSight_info values('11','建德大慈岩风景区','MainSight2','/image/011.jpg','西湖区','0571-87179511','建德大慈岩风景是杭州市4A级景区','51','101','18:00:00','08:00:00');
+insert into MainSight_info values('12','浙旅院国际教育','MainSight3','/image/012.jpg','西湖区','0571-87179512','浙旅院国际教育旅游体验是杭州市4A级景区','52','102','18:00:00','08:00:00');
+insert into MainSight_info values('13','临安大明山风景旅游区','MainSight4','/image/013.jpg','西湖区','0571-87179513','临安大明山风景旅游是杭州市4A级景区','53','103','18:00:00','08:00:00');
+insert into MainSight_info values('14','运河·塘栖古镇景区','MainSight5','/image/014.jpg','西湖区','0571-87179514','运河·塘栖古镇景是杭州市4A级景区','54','104','18:00:00','08:00:00');
+insert into MainSight_info values('15','富春桃源风景区','MainSight6','/image/015.jpg','西湖区','0571-87179515','富春桃源风景是杭州市4A级景区','55','105','18:00:00','08:00:00');
+insert into MainSight_info values('16','临安太湖源景区','MainSight7','/image/016.jpg','西湖区','0571-87179516','临安太湖源景是杭州市4A级景区','56','106','18:00:00','08:00:00');
+insert into MainSight_info values('17','桐庐浪石金滩景区','MainSight8','/image/017.jpg','西湖区','0571-87179517','桐庐浪石金滩景是杭州市4A级景区','57','107','18:00:00','08:00:00');
+insert into MainSight_info values('18','龙门古镇景区','MainSight9','/image/018.jpg','西湖区','0571-87179518','龙门古镇景是杭州市4A级景区','58','108','18:00:00','08:00:00');
+insert into MainSight_info values('19','桐庐江南古村落风景区','MainSight10','/image/019.jpg','','0571-87179519','桐庐江南古村落风景区是杭州市4A级景区','59','109','18:00:00','08:00:00');
+insert into MainSight_info values('20','湘湖景区','MainSight11','/image/020.jpg','上城区','0571-87179520','湘湖景区是杭州市4A级景区','60','110','18:00:00','08:00:00');
+insert into MainSight_info values('21','皋亭山景区','MainSight12','/image/021.jpg','上城区','0571-87179521','皋亭山景区是杭州市4A级景区','61','111','18:00:00','08:00:00');
+insert into MainSight_info values('22','柳溪江风景区','MainSight13','/image/022.jpg','上城区','0571-87179522','柳溪江风景区是杭州市4A级景区','62','112','18:00:00','08:00:00');
+insert into MainSight_info values('23','桐庐天子地','MainSight14','/image/023.jpg','上城区','0571-87179523','桐庐天子地生态风景旅游区是杭州市4A级景区','63','113','18:00:00','08:00:00');
+insert into MainSight_info values('24','瑶琳仙境旅游区','MainSight15','/image/024.jpg','上城区','0571-87179524','瑶琳仙境旅游区是杭州市4A级景区','64','114','18:00:00','08:00:00');
+insert into MainSight_info values('25','良渚博物院','MainSight16','/image/025.jpg','上城区','0571-87179525','良渚博物院是杭州市4A级景区','65','115','18:00:00','08:00:00');
+insert into MainSight_info values('26','桐庐垂云通天河景区','MainSight17','/image/026.jpg','上城区','0571-87179526','桐庐垂云通天河景区是杭州市4A级景区','66','116','18:00:00','08:00:00');
+insert into MainSight_info values('27','极地海洋公园','MainSight18','/image/027.jpg','上城区','0571-87179527','极地海洋公园是杭州市4A级景区','67','117','18:00:00','08:00:00');
+insert into MainSight_info values('28','杭州乐园','MainSight19','/image/028.jpg','上城区','0571-87179528','杭州乐园是杭州市4A级景区','68','118','18:00:00','08:00:00');
+insert into MainSight_info values('29','建德七里扬帆景区','MainSight20','/image/029.jpg','上城区','0571-87179529','建德七里扬帆景区是杭州市4A级景区','69','119','18:00:00','08:00:00');
+insert into MainSight_info values('30','临安天目山','MainSight21','/image/030.jpg','上城区','0571-87179530','临安天目山是杭州市4A级景区','70','120','18:00:00','08:00:00');
+insert into MainSight_info values('31','建德灵栖洞景区','MainSight22','/image/031.jpg','下城区','0571-87179531','建德灵栖洞景区是杭州市4A级景区','71','121','18:00:00','08:00:00');
+insert into MainSight_info values('32','浙西大峡谷','MainSight23','/image/032.jpg','下城区','0571-87179532','浙西大峡谷是杭州市4A级景区','72','122','18:00:00','08:00:00');
+insert into MainSight_info values('33','临安东天目山景区','MainSight24','/image/033.jpg','下城区','0571-87179533','临安东天目山景区是杭州市4A级景区','73','123','18:00:00','08:00:00');
+insert into MainSight_info values('34','雷峰塔景区','MainSight25','/image/034.jpg','下城区','0571-87179534','雷峰塔景区是杭州市4A级景区','74','124','18:00:00','08:00:00');
+insert into MainSight_info values('35','超山景区','MainSight26','/image/035.jpg','下城区','0571-87179535','超山景区是杭州市4A级景区','75','125','18:00:00','08:00:00');
+insert into MainSight_info values('36','野生动物世界','MainSight27','/image/036.jpg','下城区','0571-87179536','野生动物世界是杭州市4A级景区','76','126','18:00:00','08:00:00');
+insert into MainSight_info values('37','桐庐严子陵钓台景区','MainSight28','/image/037.jpg','下城区','0571-87179537','桐庐严子陵钓台景区是杭州市4A级景区','77','127','18:00:00','08:00:00');
+insert into MainSight_info values('38','东方文化园','MainSight29','/image/038.jpg','下城区','0571-87179538','东方文化园是杭州市4A级景区','78','128','18:00:00','08:00:00');
+insert into MainSight_info values('39','双溪竹海漂流景区','MainSight30','/image/039.jpg','下城区','0571-87179539','双溪竹海漂流景区是杭州市4A级景区','79','129','18:00:00','08:00:00');
+insert into MainSight_info values('40','余杭山沟沟景区','MainSight31','/image/040.jpg','下城区','0571-87179540','余杭山沟沟景区是杭州市4A级景区','80','130','18:00:00','08:00:00');
+
+
+insert into  values ('1','餐厅','上城区','外婆家','200','130');
+insert into  values ('1','酒店','上城区','如家快捷酒店','200','130');
+insert into  values ('1','商店','上城区','杭州大厦','1000','130');
+insert into  values ('1','餐厅','上城区','白鹿原','201','130');
+insert into  values ('1','酒店','上城区','汉庭快捷酒店','201','130');
+insert into  values ('1','商店','上城区','湖滨in银泰','1000','130');
+insert into  values ('1','餐厅','上城区','必胜客','202','130');
+insert into  values ('2','酒店','上城区','四季酒店','202','130');
+insert into  values ('2','商店','上城区','武林银泰广场','1000','130');
+insert into  values ('2','餐厅','上城区','肯德基','203','130');
+insert into  values ('2','酒店','上城区','全季酒店','203','130');
+insert into  values ('12','商店','上城区','黄龙大厦','1000','130');
+insert into  values ('13','餐厅','上城区','麦当劳','204','130');
+insert into  values ('14','酒店','上城区','青木客栈','204','130');
+insert into  values ('15','商店','上城区','金沙湖天街','1000','130');
+insert into  values ('16','餐厅','上城区','知味观','205','130');
+insert into  values ('17','酒店','上城区','杭州洲际酒店','205','130');
+insert into  values ('18','商店','上城区','四季青服装批发市场','1000','130');
+insert into  values ('19','餐厅','下城区','楼外楼','400','130');
+insert into  values ('20','酒店','下城区','西子宾馆','400','130');
+insert into  values ('21','商店','下城区','爱马仕','1000','130');
+insert into  values ('22','餐厅','下城区','山外山','401','130');
+insert into  values ('23','酒店','下城区','华侨大酒店','401','130');
+insert into  values ('24','商店','下城区','万宝龙','1000','130');
+insert into  values ('25','餐厅','下城区','宴西湖','402','130');
+insert into  values ('26','酒店','下城区','云上四季','402','130');
+insert into  values ('27','商店','下城区','祖玛龙','1000','130');
+insert into  values ('28','餐厅','下城区','三么地','403','130');
+insert into  values ('29','酒店','下城区','海云酒店','403','130');
+insert into  values ('30','商店','下城区','卡地亚','1000','130');
+insert into  values ('31','餐厅','下城区','和寿司','404','130');
+insert into  values ('32','酒店','下城区','留白酒店','404','130');
+insert into  values ('33','商店','下城区','古驰','1000','130');
+insert into  values ('34','餐厅','下城区','黄山KK大厦','405','130');
+insert into  values ('35','酒店','下城区','百利沙湖畔带你','405','130');
+insert into  values ('36','商店','下城区','ZARA','1000','130');
+insert into  values ('37','餐厅','西湖区','双凤老鹅汤','500','130');
+insert into  values ('38','酒店','西湖区','钱江大酒店','500','130');
+insert into  values ('39','商店','西湖区','H&M','1000','130');
+insert into  values ('40','餐厅','西湖区','奎元馆','501','130');
+insert into  values ('3','酒店','西湖区','喜来登','501','130');
+insert into  values ('3','商店','西湖区','GAP','1000','130');
+insert into  values ('3','餐厅','西湖区','杭州酒店','502','130');
+insert into  values ('3','酒店','西湖区','香格里拉大酒店','502','130');
+insert into  values ('3','商店','西湖区','芬迪','1000','130');
+insert into  values ('3','餐厅','西湖区','状元馆','503','130');
+insert into  values ('3','酒店','西湖区','五洋公馆','503','130');
+insert into  values ('3','商店','西湖区','天梭','1000','130');
+insert into  values ('3','餐厅','西湖区','新丰小吃','504','130');
+insert into  values ('3','酒店','西湖区','希尔顿大酒店','504','130');
+insert into  values ('3','商店','西湖区','劳力士','1000','130');
+
+
+create table Shopping_info
+(
+f_Num int,
+s_Class char(20) check(s_Class in('餐厅','酒店','商店')),
+s_Pos text,
+s_Name char(50),
+s_Cost int,
+s_CityNum int,
+primary key(f_Num,s_Name),
+foreign key (f_Num) references MainSight_info(m_Nums),
+foreign key (s_CityNum) references City_info(c_Num)
+);
+
+
+create table Traffic_info
+(
+t_pos int,
+Dep int,
+trainC int,
+airC int,
+selfC int,
+primary key(t_pos,Dep),
+foreign key (t_pos) references City_info(c_Num),
+foreign key (Dep) references City_info(c_Num)
+);
+
+insert into Traffic_info values ('1','43','1','1000','1500');
+insert into Traffic_info values ('2','44','2','1001','1501');
+insert into Traffic_info values ('3','45','3','1002','1502');
+insert into Traffic_info values ('4','46','4','1003','1503');
+insert into Traffic_info values ('5','47','5','1004','1504');
+insert into Traffic_info values ('6','48','6','1005','1505');
+insert into Traffic_info values ('7','49','7','1006','1506');
+insert into Traffic_info values ('8','50','8','1007','1507');
+insert into Traffic_info values ('9','51','9','1008','1508');
+insert into Traffic_info values ('10','52','10','1009','1509');
+insert into Traffic_info values ('11','53','11','1010','1510');
+insert into Traffic_info values ('12','54','12','1011','1511');
+insert into Traffic_info values ('13','55','13','1012','1512');
+insert into Traffic_info values ('14','56','14','1013','1513');
+insert into Traffic_info values ('15','57','15','1014','1514');
+insert into Traffic_info values ('16','58','16','1015','1515');
+insert into Traffic_info values ('17','59','17','1016','1516');
+insert into Traffic_info values ('18','60','18','1017','1517');
+insert into Traffic_info values ('19','61','19','1018','1518');
+insert into Traffic_info values ('20','62','20','1019','1519');
+insert into Traffic_info values ('21','63','21','1020','1520');
+insert into Traffic_info values ('22','64','22','1021','1521');
+insert into Traffic_info values ('23','65','23','1022','1522');
+insert into Traffic_info values ('24','66','24','1023','1523');
+insert into Traffic_info values ('25','67','25','1024','1524');
+insert into Traffic_info values ('26','68','26','1025','1525');
+insert into Traffic_info values ('27','69','27','1026','1526');
+insert into Traffic_info values ('28','70','28','1027','1527');
+insert into Traffic_info values ('29','71','29','1028','1528');
+insert into Traffic_info values ('30','72','30','1029','1529');
+insert into Traffic_info values ('31','73','31','1030','1530');
+insert into Traffic_info values ('32','74','32','1031','1531');
+insert into Traffic_info values ('33','75','33','1032','1532');
+insert into Traffic_info values ('34','76','34','1033','1533');
+insert into Traffic_info values ('35','77','35','1034','1534');
+insert into Traffic_info values ('36','78','36','1035','1535');
+insert into Traffic_info values ('37','79','37','1036','1536');
+insert into Traffic_info values ('38','80','38','1037','1537');
+insert into Traffic_info values ('39','81','39','1038','1538');
+insert into Traffic_info values ('40','82','40','1039','1539');
+insert into Traffic_info values ('41','83','41','1040','1540');
+insert into Traffic_info values ('42','84','42','1041','1541');
+insert into Traffic_info values ('43','85','43','1042','1542');
+
+
+
+create table Route_info 
+(
+r_CityNum int,
+r_Num int,
+r_Title text,
+r_Path text,
+r_BriefIntroduction text,
+r_time char(20),
+primary key (r_CityNum,r_Num),
+foreign key(r_CityNum) references City_info(c_Num)
+)
+
+
+
+
+insert into Route_info values ('130','1','杭州经典旅游路线1','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','今第一天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','2','杭州经典旅游路线2','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','今第一天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','3','杭州经典旅游路线3','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','今第一天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','4','杭州经典旅游路线4','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','今第一天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','5','杭州经典旅游路线5','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','今第一天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','6','杭州经典旅游路线6','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','今第一天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','7','杭州经典旅游路线7','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','今第一天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','8','杭州经典旅游路线8','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','今第一天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','9','杭州经典旅游路线9','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','今第一天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','10','杭州经典旅游路线10','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','11','杭州经典旅游路线11','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','12','杭州经典旅游路线12','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','13','杭州经典旅游路线13','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','14','杭州经典旅游路线14','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','15','杭州经典旅游路线15','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','16','杭州经典旅游路线16','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','17','杭州经典旅游路线17','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','18','杭州经典旅游路线18','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','19','杭州经典旅游路线19','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','20','杭州经典旅游路线20','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','21','杭州经典旅游路线21','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','22','杭州经典旅游路线22','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','23','杭州经典旅游路线23','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','24','杭州经典旅游路线24','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','25','杭州经典旅游路线25','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','26','杭州经典旅游路线26','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','27','杭州经典旅游路线27','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','28','杭州经典旅游路线28','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','29','杭州经典旅游路线29','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','30','杭州经典旅游路线30','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','31','杭州经典旅游路线31','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','32','杭州经典旅游路线32','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','33','杭州经典旅游路线33','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','34','杭州经典旅游路线34','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','35','杭州经典旅游路线35','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','36','杭州经典旅游路线36','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','37','杭州经典旅游路线37','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','38','杭州经典旅游路线38','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','39','杭州经典旅游路线39','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','40','杭州经典旅游路线40','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','41','杭州经典旅游路线41','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','42','杭州经典旅游路线42','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+insert into Route_info values ('130','43','杭州经典旅游路线43','第一天：西湖->雷峰塔->净慈寺->南屏晚钟。第二天：断桥->白堤->灵隐寺。第三天：西湖->西溪湿地国家公园。','第一天天行程较紧，要环西湖一周，推荐骑自行车游玩。上午以断桥为起点，经过白堤、孤山、曲院风荷，一路骑行至苏堤。午饭后去花港观鱼，之后到吴山广场赏景寻找美食。晚饭后，还要赶在九点前去看绚丽夺目的音乐喷泉。需要注意的是西湖很多景点不允许自行车进入，例如：孤山、花港观鱼。','3天2晚');
+
+
+if(OBJECT_ID('proc_SelectCity','p')is not null)
+	drop proc proc_SelectCity
+go
+create proc proc_SelectCity (@CityName varchar(20))
+as
+begin
+	declare @CityNum int;
+	select @CityNum = c_Num from City_info where c_name = @CityName;
+	exec('create view CityMainSight as select
+		m_Nums,m_Cname,m_Ename,m_Pos,m_Tel,m_Detail,m_TicketW,m_TicketD,m_Out,m_In,m_Traffic
+		from MainSight_info where m_CityNum=+@CityNum)
+	exec('create view CityShopping as select
+		f_Num,s_Class,s_Pos,s_Name,s_Cost from Shopping_info
+		where s_CityNum=+@CityNum)
+	exec('create view CityMainPic as select s_Num,pic_location1,pic_location2,pic_location3 from MainPic_info 
+		where c_Num=+@CityNum)
+	exec('create view CityRoute_info as select r_Num,r_Title,r_Path,r_BriefIntroduction,r_time from Route_info 
+		where r_CityNum=+@CityNum)
+	exec('create view CityFlow_info as select f_Nums,Month,Flow from Flow_info 
+		where f_CityNum=+@CityNum)
+	exec('create view CityStaticsData as select f_Nums,proportion,source_Province,traS,count_year from StaticsData 
+		where CityNum=+@CityNum)
+end
+go
+
+
+
+if(OBJECT_ID('tgr_CityNum_update','TR')is not null)
+	drop trigger tgr_CityNum_update
+go
+create trigger tgr_CityNum_update on City_info
+	for update
+as 
+	declare @oldCityNum int, @newCityNum int;
+	select  @oldCityNum =  c_Num from deleted;
+	if(exists (select * from deleted where c_Num is not null))
+	begin
+		select @newCityNum = c_Num from inserted;
+		update MainPic_info set c_Num = @newCityNum where c_Num = @oldCityNum;
+		update MainSight_info set m_CityNum = @newCityNum where m_CityNum = @oldCityNum;
+		update Shopping_info set s_CityNum = @newCityNum where s_CityNum = @oldCityNum;
+		update Route_info set r_CityNum = @newCityNum where r_CityNum = @oldCityNum;
+		update Flow_info set f_CityNum = @newCityNum where f_CityNum = @oldCityNum;
+		update StaticsData set CityNum = @newCityNum where CityNum = @oldCityNum;
+	end
+go
+
+
+drop table StaticsData;
+create table StaticsData
+(
+f_Nums int,
+proportion numeric(4,2),
+source_Province char(20),
+traS char(20),
+CityNum int,
+count_year int,
+foreign key (CityNum) references City_info(c_num),
+foreign key (f_Nums)references MainSight_info(m_Nums)
+);
+
+
+
+
+
+insert into StaticsData values ('1','4.11','北京市','飞机','130','2018');
+insert into StaticsData values ('2','4.11','北京市','飞机','130','2018');
+insert into StaticsData values ('3','4.11','北京市','飞机','130','2018');
+insert into StaticsData values ('4','4.11','北京市','火车','130','2018');
+insert into StaticsData values ('5','4.22','上海市','飞机','130','2018');
+insert into StaticsData values ('6','4.22','上海市','火车','130','2018');
+insert into StaticsData values ('7','4.22','上海市','火车','130','2018');
+insert into StaticsData values ('1','8.32','广西省','火车','130','2018');
+insert into StaticsData values ('1','8.32','广西省','火车','130','2018');
+insert into StaticsData values ('1','8.32','广西省','高铁','130','2018');
+insert into StaticsData values ('2','8.32','广西省','飞机','130','2018');
+insert into StaticsData values ('3','8.32','广西省','飞机','130','2018');
+insert into StaticsData values ('4','8.32','广西省','火车','130','2018');
+insert into StaticsData values ('5','8.32','广西省','火车','130','2018');
+insert into StaticsData values ('6','8.32','广西省','火车','130','2018');
+insert into StaticsData values ('1','13.41','广东省','飞机','130','2018');
+insert into StaticsData values ('2','13.41','广东省','火车','130','2018');
+insert into StaticsData values ('3','13.41','广东省','火车','130','2018');
+insert into StaticsData values ('4','13.41','广东省','高铁','130','2018');
+insert into StaticsData values ('5','13.41','广东省','飞机','130','2018');
+insert into StaticsData values ('6','13.41','广东省','飞机','130','2018');
+insert into StaticsData values ('7','13.41','广东省','飞机','130','2018');
+insert into StaticsData values ('1','13.41','广东省','高铁','130','2018');
+insert into StaticsData values ('2','13.41','广东省','火车','130','2018');
+insert into StaticsData values ('1','51.42','安徽省','轮船','130','2018');
+insert into StaticsData values ('2','51.42','安徽省','轮船','130','2018');
+insert into StaticsData values ('3','51.42','安徽省','火车','130','2018');
+insert into StaticsData values ('4','51.42','安徽省','火车','130','2018');
+insert into StaticsData values ('5','51.42','安徽省','飞机','130','2018');
+insert into StaticsData values ('6','51.42','安徽省','火车','130','2018');
+insert into StaticsData values ('7','51.42','安徽省','高铁','130','2018');
+insert into StaticsData values ('1','51.42','安徽省','飞机','130','2018');
+insert into StaticsData values ('2','51.42','安徽省','火车','130','2018');
+insert into StaticsData values ('3','51.42','安徽省','自驾','130','2018');
+insert into StaticsData values ('4','51.42','安徽省','自驾','130','2018');
+insert into StaticsData values ('5','51.42','安徽省','自驾','130','2018');
+insert into StaticsData values ('6','51.42','安徽省','自驾','130','2018');
+
+
+drop table Flow_info;
+create table Flow_info
+(
+f_Nums int,
+Month int,
+Flow numeric(4,2),
+f_CityNum int,
+primary key(f_Nums,Month,f_CityNum),
+foreign key (f_Nums) references MainSight_info(m_Nums),
+foreign key (f_CityNum) references City_info(c_num)
+);
+
+
+insert into Flow_info values ('1','1','11.21','130');
+insert into Flow_info values ('2','1','2.36','130');
+insert into Flow_info values ('3','1','17.15','130');
+insert into Flow_info values ('4','1','10.21','130');
+insert into Flow_info values ('1','2','10.21','130');
+insert into Flow_info values ('2','2','6.25','130');
+insert into Flow_info values ('3','2','19.14','130');
+insert into Flow_info values ('4','2','17.15','130');
+insert into Flow_info values ('1','3','9.45','130');
+insert into Flow_info values ('2','3','4.51','130');
+insert into Flow_info values ('3','3','15.12','130');
+insert into Flow_info values ('4','3','9.25','130');
+insert into Flow_info values ('1','4','6.25','130');
+insert into Flow_info values ('2','4','10.21','130');
+insert into Flow_info values ('3','4','15.12','130');
+insert into Flow_info values ('4','4','4.51','130');
+insert into Flow_info values ('1','5','8.25','130');
+insert into Flow_info values ('2','5','9.25','130');
+insert into Flow_info values ('3','5','6.25','130');
+insert into Flow_info values ('4','5','10.21','130');
+insert into Flow_info values ('1','6','9.25','130');
+insert into Flow_info values ('2','6','4.51','130');
+insert into Flow_info values ('3','6','10.21','130');
+insert into Flow_info values ('4','6','19.14','130');
+insert into Flow_info values ('1','7','16.62','130');
+insert into Flow_info values ('2','7','17.15','130');
+insert into Flow_info values ('3','7','17.15','130');
+insert into Flow_info values ('4','7','9.25','130');
+insert into Flow_info values ('1','8','17.15','130');
+insert into Flow_info values ('2','8','4.51','130');
+insert into Flow_info values ('3','8','4.51','130');
+insert into Flow_info values ('4','8','17.15','130');
+insert into Flow_info values ('1','9','19.14','130');
+insert into Flow_info values ('2','9','19.14','130');
+insert into Flow_info values ('3','9','6.25','130');
+insert into Flow_info values ('4','9','6.25','130');
+insert into Flow_info values ('1','10','4.51','130');
+insert into Flow_info values ('2','10','10.21','130');
+insert into Flow_info values ('3','10','10.21','130');
+insert into Flow_info values ('4','10','10.21','130');
+insert into Flow_info values ('1','11','6.25','130');
+insert into Flow_info values ('2','11','9.25','130');
+insert into Flow_info values ('3','11','4.51','130');
+insert into Flow_info values ('4','11','17.15','130');
+insert into Flow_info values ('1','12','8.15','130');
+insert into Flow_info values ('2','12','6.25','130');
+insert into Flow_info values ('3','12','19.14','130');
+insert into Flow_info values ('4','12','6.25','130');
+
+
+
+
+if(OBJECT_ID('tgr_MainSightNum','TR')is not null)
+	drop trigger tgr_MainSightNum
+go
+create trigger tgr_MainSightNum on MainSight_info
+	for update
+as
+	declare @oldSightNum int,@newSightNum int;
+	select @oldSightNum = m_Nums from deleted;
+	if(exists(select * from deleted where m_Nums is not null))
+	begin
+		select @newSightNum = m_Nums from deleted;
+		update ChildSight_info set f_Nums = @newSightNum where f_Nums =@oldSightNum;
+		update StaticsData set f_Nums =@newSightNum where f_Nums = @oldSightNum;
+		update Flow_info set f_Nums = @newSightNum where f_Nums = @oldSightNum;
+		update MainPic_info set s_Num =@newSightNum where s_Num =@oldSightNum;
+		update Shopping_info set f_Num = @newSightNum where f_Num=@oldSightNum;
+	end
+go
+	
+if(OBJECT_ID('proc_SearchCname','p')is not null)
+	drop proc proc_SearchCname
+go
+create proc proc_SearchCname (@CityName varchar(20))
+as
+begin
+
+end
+go
+
+if(OBJECT_ID('proc_CityProvince','p')is not null)
+	drop proc proc_CityProvince
+go
+create proc proc_CityProvince (@CityName varchar(20))
+as
+begin
+
+end
+go
+
+
+if(OBJECT_ID('proc_CityInformation','p')is not null)
+	drop proc proc_CityInformation
+go
+create proc proc_CityInformation (@CityName varchar(20))
+as
+begin
+
+end
+go
+
+if(OBJECT_ID('proc_AllProvince','p')is not null)
+	drop proc proc_AllProvince
+go
+create proc proc_AllProvince (@CityName varchar(20))
+as
+begin
+
+end
+go
+
+if(OBJECT_ID('proc_AllCityInProvince','p')is not null)
+	drop proc proc_AllCityInProvince
+go
+create proc proc_AllCityInProvince (@CityName varchar(20))
+as
+begin
+
+end
+go
+
+
+
+if(OBJECT_ID('proc_DeleteUser','p')is not null)
+	drop proc proc_DeleteUser
+go
+create proc proc_DeleteUser (@CityName varchar(20))
+as
+begin
+
+end
+go
+
+
+
+if(OBJECT_ID('proc_DeleteComments','p')is not null)
+	drop proc proc_DeleteComments
+go
+create proc proc_DeleteComments (@CityName varchar(20))
+as
+begin
+
+end
+go
+
+
+
+if(OBJECT_ID('proc_InsertUser','p')is not null)
+	drop proc proc_InsertUser
+go
+create proc proc_InsertUser (@CityName varchar(20))
+as
+begin
+
+end
+go
+
+
+
+if(OBJECT_ID('proc_CityMainSight','p')is not null)
+	drop proc proc_CityMainSight
+go
+create proc proc_CityMainSight (@CityName varchar(20))
+as
+begin
+
+end
+go
+
+
+if(OBJECT_ID('proc_SelectCity','p')is not null)
+	drop proc proc_SelectCity
+go
+create proc proc_SelectCity (@CityName varchar(20))
+as
+begin
+
+end
+go
+
+
+if(OBJECT_ID('proc_SelectCity','p')is not null)
+	drop proc proc_SelectCity
+go
+create proc proc_SelectCity (@CityName varchar(20))
+as
+begin
+
+end
+go
+
+
+
+if(OBJECT_ID('proc_SelectCity','p')is not null)
+	drop proc proc_SelectCity
+go
+create proc proc_SelectCity (@CityName varchar(20))
+as
+begin
+
+end
+go
+
+insert user_info values('DOVa奕','ISMvKXpXpadDiUoOSoAfww==','18856335960@163.com','18856335961','0');
+insert user_info values('涤心苑主','ISMvKXpXpadDiUoOSoAfww==','18856335962@163.com','18856335963','0');
+insert user_info values('自讨没趣','ISMvKXpXpadDiUoOSoAfww==','18856335964@163.com','18856335965','0');
+insert user_info values('温暖','ISMvKXpXpadDiUoOSoAfww==','18856335966@163.com','18856335967','0');
+insert user_info values('野原澳猪先生','ISMvKXpXpadDiUoOSoAfww==','18856335968@163.com','18856335969','0');
+insert user_info values('yangzi','ISMvKXpXpadDiUoOSoAfww==','18856335970@163.com','18856335971','0');
+insert user_info values('tazumi','ISMvKXpXpadDiUoOSoAfww==','18856335972@163.com','18856335973','0');
+insert user_info values('独行侠','ISMvKXpXpadDiUoOSoAfww==','18856335974@163.com','18856335975','0');
+insert user_info values('寡欲清欢','ISMvKXpXpadDiUoOSoAfww==','18856335976@163.com','18856335977','0');
+insert user_info values('小妮','ISMvKXpXpadDiUoOSoAfww==','18856335978@163.com','18856335979','0');
+insert user_info values('彼岸之空','ISMvKXpXpadDiUoOSoAfww==','18856335980@163.com','18856335981','0');
+insert user_info values('信烽','ISMvKXpXpadDiUoOSoAfww==','18856335982@163.com','18856335983','0');
+insert user_info values('岚影月','ISMvKXpXpadDiUoOSoAfww==','18856335984@163.com','18856335985','0');
+insert user_info values('汤圆','ISMvKXpXpadDiUoOSoAfww==','18856335986@163.com','18856335987','0');
+insert user_info values('墨','ISMvKXpXpadDiUoOSoAfww==','18856335988@163.com','18856335989','0');
+insert user_info values('蔡薄四','ISMvKXpXpadDiUoOSoAfww==','18856335990@163.com','18856335991','0');
+insert user_info values('DavSun','ISMvKXpXpadDiUoOSoAfww==','18856335992@163.com','18856335993','0');
+insert user_info values('陈鸿伟','ISMvKXpXpadDiUoOSoAfww==','18856335994@163.com','18856335995','0');
+insert user_info values('登るぎれん','ISMvKXpXpadDiUoOSoAfww==','18856335996@163.com','18856335997','0');
+insert user_info values('丽丝alice','ISMvKXpXpadDiUoOSoAfww==','18856335998@163.com','18856335999','0');
+insert user_info values('Edison丶南','ISMvKXpXpadDiUoOSoAfww==','18856336100@163.com','18856336101','0');
+insert user_info values('minibluefish','ISMvKXpXpadDiUoOSoAfww==','18856336102@163.com','18856336103','0');
+insert user_info values('朱文龙','ISMvKXpXpadDiUoOSoAfww==','18856336104@163.com','18856336105','0');
+insert user_info values('汤姆猫','ISMvKXpXpadDiUoOSoAfww==','18856336106@163.com','18856336107','0');
+insert user_info values('西斯瓦尔纳','ISMvKXpXpadDiUoOSoAfww==','18856336108@163.com','18856336109','0');
+insert user_info values('浅忆流年','ISMvKXpXpadDiUoOSoAfww==','18856336110@163.com','18856336111','0');
+insert user_info values('平平安安','ISMvKXpXpadDiUoOSoAfww==','18856336112@163.com','18856336113','0');
+insert user_info values('L1u.sy','ISMvKXpXpadDiUoOSoAfww==','18856336114@163.com','18856336115','0');
+
+
+create table user_comments
+(
+	comNums int,
+	userName varchar(20),
+	conCont text not null,
+	f_Nums int,
+	date_time datetime,
+	rateG int,
+	primary key (comNums),
+	foreign key (userName) references user_info(userName),
+	foreign key (f_Nums) references MainSight_info(m_Nums)
+);
+
+
+insert into user_comments values('4','DOVa奕','去西湖玩，在灵隐寺路遇疑似团伙作案的卖茶老太太，差点儿入坑，望广大游客提高警惕，切勿轻信路边的“好心人”。','1','2017-02-17 13:25:25.000',null);
+insert into user_comments values('5','涤心苑主','西湖，位于浙江省杭州市西面，是中国大陆首批国家重点风景名胜区和中国十大风景名胜之一。它是中国大陆主要的观赏性淡水湖泊之一，也是现今《世界遗产名录》中少数几个和中国唯一一个湖泊类文化遗产。','1','2017-05-07 01:13:25.000',null);
+insert into user_comments values('6','自讨没趣 ','西湖是一个历史悠久、世界著名的风景游览胜地，西湖的美在于晴天水潋滟，雨天山空蒙。无论雨雪晴阴，无论早霞晚辉，都能变幻成景；在春花，秋月，夏荷，冬雪中各具美态。西湖不仅独擅 西湖之景山水秀丽之美，林壑幽深之胜，且更有丰富的文物古迹、优美动人的神话传说，把自然、人文、历史、艺术巧妙地融为一体。','1','2017-06-28 20:53:16.000',null);
+insert into user_comments values('7','温暖','我的西湖之行是从断桥残雪开始的。天气阴冷影响了自己的心情，并不觉得西湖和其他城市公园有什么不一样。但是不久我就知道自己错了。当我慢慢走进西湖，越来越喜欢她了。喜欢她平湖秋月的宁静、苏堤的优雅、花港观鱼的婉约、雷锋夕照的壮观…哦，我还坐游船去了瀛洲岛看了三潭印月。用一天慢慢感受西湖之美。脚是累的，心是快乐的','1','2017-09-29 21:36:04.000',null);
+insert into user_comments values('8','野原澳猪先生','都是上有天堂 下有苏杭 所以最美不过 苏杭两州了 来杭州旅游 西湖是首要的 据说中国有三十几处西湖 其中 杭州 安徽 惠州列为前三 来杭州西湖是要好好的游览一番的 西湖很大 游览方便 车船步行都十分便利 一年四季都有不同的景象 所以不多说 吃的 玩的 新的 旧的 应有尽有 只有亲身在其中 才能更好的感受与欣赏来自每个人对它的美的不同诠释吧！','1','2017-06-21 19:58:01.000',null);
+insert into user_comments values('9','yangzi ','不论什么季节，西湖总是给人别样的精彩，这是虽是深秋，但是午间还是很热的，我们沿着西湖漫步，夜里在西湖天地喝咖啡，西湖慢节奏的杭州。','1','2017-05-21 21:40:39.000',null);
+insert into user_comments values('10','tazumi','十一月末去杭州，西湖边还是挺冷的，阴冷！西湖走一圈基本走到晚上了，风景还可以，是那种江南的，作为南方人，要说好，的确不错，和南方其他地方比。但我自己来说更喜欢高原那种广阔一望无边。','1','2017-09-11 17:19:23.000',null);
+insert into user_comments values('11','独行侠','景色优美，堪比画卷！值得一游！欢迎光临躲避峡峡谷！联系电话18727718588微信同号！小王带您走进天然氧吧！承接个人，团队，小团体，以及专业户外。游橡皮艇穿越峡谷，体验太空悬浮船！恩施专车接送！','1','2017-07-19 01:53:48.000',null);
+insert into user_comments values('12','寡欲清欢 ','觉得应该夏天比较好，十一月中下旬没有荷花。下午三点左右到围绕西湖转一圈，走走停停的走了三个小时差不多。','1','2017-09-29 17:17:31.000',null);
+insert into user_comments values('13','小妮 ','在杭州十几年，西湖怎么也看不厌，每一季都美。西湖是免费的，不用门票，不论贫富贵贱，看到一样的西湖。西湖边的餐饮也有多种选择，便宜的面条包子都有。观光车自行车公交车也有，也可以慢慢悠悠地走。离火车站也很近，高铁过来很方便，汽车站过来也有地铁。想看西湖全景，爬上附近的宝石山就可以了。外地乘车过来，买瓶水，附近买个包子，包子2块钱一个，一般女生2个大包子吃饱了，就可以游西湖了。西湖是最适合穷游的景点了。','1','2017-02-26 01:09:31.000',null);
+insert into user_comments values('14','彼岸之空','西湖是历史上最能体现中国传统文化核心价值的审美实体，是东方审美体系中最具经典性的文化景观。与世界上以自然景观著称的湖泊相比，西湖的人文景观最多;与世界上以人文景观著称的湖泊相比，西湖的自然景观最美，是自然美与人文美完美结合的典范。','1','2017-06-19 10:26:04.000',null);
+insert into user_comments values('15','信烽 ','西湖是杭州的灵魂，因为地处杭州老城西面，故称西湖。西湖南西北三面环山，东面面向钱塘江，再往东便是东海了。西湖有孤山岛，另有三塔淑女般的宝石，老?般的雷峰塔以及将军般的六和塔西湖的周边埋葬着许多的英雄美女，故此增加了人文景观十分值得一游','1','2017-08-23 14:30:31.000',null);
+insert into user_comments values('16','岚影月 ','#未能抛得杭州去，一半勾留是此湖#','1','2017-03-17 03:57:39.000',null);
+insert into user_comments values('17','汤圆','从火车站坐1号线，过2站到达龙翔桥站，下地铁后慢慢走过去就可以了。去西湖一定得坐下小船，手动划船的哦，这样比较有情调些，哈哈。 费用大概是150/次 不过得先问问师傅可不可以微信或者支付宝，如果不行的话，就得到售票点去付款了，还得排队。逛完西湖后，可以去博物馆瞧瞧','1','2017-11-23 04:19:03.000',null);
+insert into user_comments values('18','墨 ','水光潋滟晴方好，山色空蒙雨亦奇。','1','2017-12-04 21:00:19.000',null);
+insert into user_comments values('19','蔡薄四','杭州西湖风景名胜区位于浙江省杭州市中心，分为湖滨区、湖心区、北山区、南山区和钱塘区；秀丽的湖光山色和众多的名胜古迹闻名中外，是中国著名的旅游胜地，也被誉为人间天堂。景区内群山高度都不超过400米，环布在西湖的南、西、北三面，其中的吴山和宝石山象两只手臂，一南一北，伸向市区，构成优美的杭城空间轮廓线。景区总面积达49平方公里，其中湖面6.5平方公里，以湖为主体，旧称武林水、钱塘湖、西子湖，宋代始称西湖。由大量乔灌木组成疏落有致、大小不同的空间；以植物造景为主，辅以亭、台、楼、阁、廊、榭、桥、汀。西湖傍杭州而盛，杭州因西湖而名。“天下西湖三十六，就中最美是杭州”。2007年5月8日经国家旅游局正式批准为国家AAAAA级旅游景区。2011年6月24日“中国杭州西湖文化景观”正式被列入《世界遗产名录》','1','2017-05-04 23:58:29.000',null);
+insert into user_comments values('20','DavSun ','出差去杭州，只有两三个小时，找了辆共享单车匆匆绕着西湖骑了一圈也算是到此一游，风光优美，就是人有点多。','1','2017-07-03 12:22:02.000',null);
+insert into user_comments values('21','陈鸿伟','浙江省杭州市西面，是中国大陆首批国家重点风景名胜区和中国十大风景名胜之一。它是中国大陆主要的观赏性淡水湖泊之一，也是现今《世界遗产名录》中少数几个和中国唯一一个湖泊类文化遗产。','1','2017-11-27 08:49:37.000',null);
+insert into user_comments values('22','登るぎれん ','不止在西湖，杭州之行围绕着大大在杭州打拼而展开，每次去都是叨扰她的，(#^.^#)当然还少不了九妹的存在。','1','2017-02-01 14:13:29.000',null);
+insert into user_comments values('23','丽丝alice ','西湖无敌大，走了一天老是拦不到那个电瓶车，觉得他们上下车的点不是很清晰，最后走到明确的站点等吧，都满了，我们四个人只有一个位置，而且下班车又不知道什么时候。太阳下山特别冷，不过西湖还是很美的','1','2017-03-21 12:38:42.000',null);
+insert into user_comments values('25','Edison丶南','来杭州，必须得来西湖呀！西湖真的景色很美，一年四季都有不同的看法，景点很多，经典景点游览的话可以玩个几天几夜，附近也有很多中心区，很繁华。西湖感觉真是人间仙境，来过一次就流连忘返，淡季旺季都很多人，但是丝毫不减弱我们玩的心情，赞一个！','1','2017-08-24 01:49:33.000',null);
+insert into user_comments values('26','minibluefish ','西湖的美毋庸置疑，无论是初到此地，还是像我一样怀念又来重现的，依然会觉得是美如一幅画卷。游西湖，看的是风景，释怀的是心情。','1','2017-05-11 06:40:13.000',null);
+insert into user_comments values('27','朱文龙 ','春节前去的，我觉得西湖的美是无法比拟的，真的是流连忘返！自然景观与人文历史完美的结合在一起而且没有门票简直是中国最值得去的景点','1','2017-04-04 19:00:16.000',null);
+insert into user_comments values('28','汤姆猫','湖光山色，美不胜收，光是看看图片就能明白什么叫上有天堂下有苏杭了。。。虽然人多一些但也抵挡不了西湖的美丽景色，绕着湖边的南山路，北山路步行着实是一件很惬意的事情，沿途风景也很美，不想走的话亦可以乘坐当地的旅游小公交，很方便的。夜间的西湖更是美丽，而且夜间西湖边上的气氛显得更好了。注意：七月中旬的时候杭州非常非常的热，路边偶有志愿者提供饮用水，不过建议大家夏天前往的话还是尽量自备充足的水，因为你会不断地口渴。。。水不断的买会买不起的。。= =','1','2017-09-21 04:57:01.000',null);
+insert into user_comments values('29','西斯瓦尔纳 ','西湖三面环山，面积约6.39平方千米，东西宽约2.8千米，南北长约3.2千米，绕湖一周近15千米。湖中被孤山、白堤、苏堤、杨公堤分隔，按面积大小分别为外西湖、西里湖、北里湖、小南湖及岳湖等五片水面，苏堤、白堤越过湖面，小瀛洲、湖心亭、阮公墩三个小岛鼎立于外西湖湖心，夕照山的雷峰塔与宝石山的保俶塔隔湖相映，由此形成了“一山、二塔、三岛、三堤、五湖”的基本格局。','1','2017-07-02 19:34:13.000',null);
+insert into user_comments values('30','浅忆流年','雷峰塔是后建的，原来的只剩一个塔基了，直白一点就是一堆石头，不过塔内的木刻壁画还是值得一看的，很精美，内容很丰富。做为东北人，第一次吃杭帮菜，有一点不习惯，口味对于我来说太清淡，呵呵。。。。。。我是冬天去的，很不凑巧的是，我去的前一天，杭州下雪了，断桥残雪错过了想，一点小遗憾，可是谁人的人生中是完美无憾的呢？杭州，我会再来的······','1','2017-03-29 18:55:49.000',null);
+insert into user_comments values('31','平平安安','这几年杭州都在努力打造旅游城市的建设，围绕西湖打造的西湖经济圈，所以西湖的开发力度很大，朋友可以亲自去体验一把','1','2017-07-08 13:38:52.000',null);
+insert into user_comments values('32','L1u.sy ','“上有天堂，下有苏杭”，知道这就话的时候就对杭州充满向往。当然，到了杭州，就必访西湖。西湖很大，景色宜人，这是不妨租个自行车转一转，湖风很温和，心情都变得不一样了！','1','2017-04-13 09:41:18.000',null);
+
+
+
+
+create table Running_log
+(
+runNums char(20),
+Operator varchar(20),
+type char(20),
+runCont char(20),
+primary key (runNums),
+foreign key (Operator) references user_info(userName)
+);
+
+

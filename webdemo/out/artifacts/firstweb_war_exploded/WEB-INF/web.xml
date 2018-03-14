@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+    <servlet>
+        <servlet-name>HelloWorld</servlet-name>
+        <servlet-class>HelloWorld</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>HelloWorld</servlet-name>
+        <url-pattern>/HelloWorld</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>Register</servlet-name>
+        <servlet-class>register_log.Register</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Register</servlet-name>
+        <url-pattern>/register_log/Register</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Login</servlet-name>
+        <servlet-class>register_log.Login</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Login</servlet-name>
+        <url-pattern>/register_log/Login</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ValidationCode</servlet-name>
+        <servlet-class>register_log.ValidationCode</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ValidationCode</servlet-name>
+        <url-pattern>/register_log/ValidationCode</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+    <servlet-name>traffic</servlet-name>
+    <servlet-class>register_log.traffic</servlet-class>
+</servlet>
+    <servlet-mapping>
+        <servlet-name>traffic</servlet-name>
+        <url-pattern>/register_log/traffic</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>JumpToChild</servlet-name>
+        <servlet-class>register_log.JumpToChild</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>JumpToChild</servlet-name>
+        <url-pattern>/register_log/JumpToChild</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DBServlet1</servlet-name>
+        <servlet-class>sights.DBServlet1</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DBServlet1</servlet-name>
+        <url-pattern>/sights/DBServlet1</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>MainSight</servlet-name>
+        <servlet-class>sights.MainSight</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>MainSight</servlet-name>
+        <url-pattern>/sights/MainSight</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Admin</servlet-name>
+        <servlet-class>Manage.Admin</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Admin</servlet-name>
+        <url-pattern>/Manage/Admin</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>City</servlet-name>
+        <servlet-class>city.City</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>City</servlet-name>
+        <url-pattern>/city/City</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>DBServlet3</servlet-name>
+        <servlet-class>city.DBServlet3</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DBServlet3</servlet-name>
+        <url-pattern>/city/DBServlet3</url-pattern>
+    </servlet-mapping>
+
+
+
+</web-app>

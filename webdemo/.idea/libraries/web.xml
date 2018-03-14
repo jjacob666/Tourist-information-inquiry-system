@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="web">
+    <CLASSES>
+      <root url="jar://H:/java/jdbc/sqljdbc42.jar!/" />
+      <root url="file://C:/Program Files/Apache Software Foundation/Tomcat 8.5" />
+      <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 8.5/lib/servlet-api.jar!/" />
+      <root url="jar://C:/Program Files/Apache Software Foundation/Tomcat 8.5/lib/jsp-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://H:/java/jdk" />
+      <root url="file://C:/Program Files/Apache Software Foundation/Tomcat 8.5/webapps/docs/appdev/sample/src" />
+      <root url="file://C:/Program Files/Apache Software Foundation/Tomcat 8.5/work/Catalina/localhost/ROOT" />
+    </SOURCES>
+    <jarDirectory url="file://H:/java/jdk" recursive="false" type="SOURCES" />
+  </library>
+</component>

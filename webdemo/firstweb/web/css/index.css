@@ -1,0 +1,299 @@
+html,
+body{
+    width:100%;
+    height:100%;
+    margin:0;
+    padding:0;
+    font-size:13px;
+    box-sizing: border-box;
+}
+ul,
+li{
+    padding:0;
+    margin:0;
+    list-style:none;
+}
+.outer-box{
+    height:350px;
+    padding-right:300px;
+    position: relative;
+}
+.container{
+    height:350px;
+    width:100%;
+}
+.panel{
+    position:absolute;
+    top:0;
+    bottom:0;
+    right:0;
+    height:100%;
+    overflow:auto;
+    width:300px;
+    z-index:999;
+    border-left:1px solid #eaeaea;
+    background:#fff;
+}
+.panel-box {
+    position: absolute;
+    right: 0;
+    height: 286px;
+    overflow: auto;
+    width: 300px;
+    z-index: 10;
+    border: 1px solid #eaeaea;
+    background: #fff;
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+.top-64 {
+    top: 64px;
+}
+.map-list {
+    position: absolute;
+    top: 0;
+    right: 0px;
+    width: 300px;
+    height: 30px;
+    box-sizing: border-box;
+    line-height: 30px;
+    z-index: 20;
+    border-top: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #2A3F54;
+    background:#fff;
+}
+.map-list .item {
+    display: block;
+    float: left;
+    height: 28px;
+    line-height: 30px;
+    border-left: 1px solid #ddd;
+    text-align: center;
+    background: #f1f1f1;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+.w-33{
+    width: 33.33%;
+}
+.w-20{
+    width: 20%;
+}
+.map-list .item-acitive {
+    border-left: 1px solid #2A3F54;
+    border-right: 1px solid #2A3F54;
+    border-top: 2px solid #2A3F54;
+    border-bottom: 1px solid #fff;
+    background: #fff;
+    height: 29px;
+}
+.project-name {
+    width:300px;
+    height: 34px;
+    padding:5px 8px;
+    position: absolute;
+    right: 0;
+    top: 30px;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    box-sizing: border-box;
+}
+.project-name .item {    
+    display: inline-block;
+    height: 24px;
+    line-height: 24px;
+    padding:0 6px;
+    margin-bottom: 0;
+    font-size: 13px;
+    color: #73879c;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 2px;
+    border: 1px solid transparent;
+    margin-right: 10px;
+}
+.project-name .item-acitive {
+    background: #26B99A;
+    border: 1px solid #169F85;
+    color: #fff;
+}
+.poiHover {
+    border-left: 2px solid rgba(0,0,0,0);
+    height: 38px;
+    line-height: 38px;
+    cursor: pointer;
+}
+.poibox.selected .poiHover{
+    border-left-color: #f00;
+    background: #f6f6f6;
+}
+.poiHover{
+    height: 38px;
+    line-height: 38px;
+}
+.poiHover:hover {
+    background: #f6f6f6;
+}
+.poiHover:last-child {
+    border-bottom: none;
+}
+.poi-title {
+    font-weight: 700;
+    columns: #333;
+    margin: 0 0 8px 0;
+    font-size: 14px;
+}
+.poi-info-title{
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 8px 8px 8px;
+}
+.margin-0{
+    margin: 0;
+}
+.poibox .poi-info-left {
+    padding-left: 5px;
+    display: inline-block;
+    float: left;
+    width: 60%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    box-sizing: border-box;
+}
+.poi-point{
+    display: block;
+    float: left;
+    width: 24px;
+    height: 24px;
+    font-size: 13px;
+    color: #fff;
+    background: #38aadd;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 25px;
+    margin-top: 7px;
+    margin-right: 6px;
+}
+.poi-info-right{
+    float: right;
+    padding-right: 5px;
+    font-size: 11px;
+    color: #999;
+    width: 40%;
+    box-sizing: border-box;
+    text-align: right;
+}
+.poi-addr {
+    margin: 0;
+    font-size: 13px;
+    line-height: 20px;
+}
+.poibox .poi-imgbox {
+    width: 100px;
+    height: 74px;
+    vertical-align: top;
+    float: right;
+    margin: 0 8px;
+    overflow: hidden;
+}
+.poibox .poi-img {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+.amap-simple-marker.my-marker .amap-simple-marker-label {
+    font-size: 12px;
+    color: #eee;
+    font-family: sans-serif;
+}
+.selected .amap-simple-marker.my-marker .amap-simple-marker-label {
+    font-size: 14px;
+    color: orange;
+    font-weight: 700;
+}
+@-webkit-keyframes flash {
+    from, 50%, to {
+        opacity: 1;
+    }
+    25%, 75% {
+        opacity: 0;
+    }
+}
+@keyframes flash {
+    from, 50%, to {
+        opacity: 1;
+    }
+    25%, 75% {
+        opacity: 0;
+    }
+}
+.flash {
+    -webkit-animation-name: flash;
+    animation-name: flash;
+}
+.animated {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+.scrollbar1::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    background-color: #fff;
+}
+.scrollbar1::-webkit-scrollbar {
+    width: 6px;
+    background-color: #fff;
+}
+.scrollbar1::-webkit-scrollbar-thumb {
+    background-color: #aaa;
+}
+.scrollbar1::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    background-color: #fff;
+}
+.scrollbar1::-webkit-scrollbar {
+    width: 6px;
+    background-color: #fff;
+}
+.scrollbar1::-webkit-scrollbar-thumb {
+    background-color: #aaa;
+}
+.clear {
+    clear: both;
+}
+ul,
+li{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.amap-info>div{
+    width: 300px;
+}
+.sourceBtn{
+    position: absolute;
+    top: 10px;
+    z-index: 2
+}
+.sourceBtn:nth-child(1){
+    left: 20px;
+}
+.sourceBtn:nth-child(2){
+    left: 90px;
+}
+.btn-success-km{
+    position: absolute;
+    z-index: 2;
+    top: 0;
+}
+.btn-success-km:nth-child(1){
+    left: 0;
+}
+.btn-success-km:nth-child(2){
+    left: 80px;
+}
