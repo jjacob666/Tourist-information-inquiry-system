@@ -1,4 +1,4 @@
-# -BS-
+# Tourist information inquiry system
 
 ## 系统开发概述
 旅游信息查询管理系统是对旅游信息资源进行能够查询并管理的系统。
